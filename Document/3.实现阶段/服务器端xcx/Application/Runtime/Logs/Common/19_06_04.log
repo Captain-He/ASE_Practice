@@ -1,0 +1,6 @@
+[ 2019-06-04T17:13:04+08:00 ] 61.158.149.34 /xcx/Public/qwadmin/js/function.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Public
+
