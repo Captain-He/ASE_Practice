@@ -1,0 +1,226 @@
+[ 2019-06-05T15:52:07+08:00 ] 61.158.149.34 /xcx/home/index/getopenid?appid=wxe414a8d62204cc8b&secret=cee99d299baa43f5395faa74ba77cad8&js_code=043voYpV0rHll12kwErV0W37qV0voYph&grant_type=authorization_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007238s ]
+
+[ 2019-06-05T15:52:07+08:00 ] 61.158.149.34 /xcx/home/index/getuserinfo?openid=&nick=%E5%92%8C%E5%90%8C%E5%AD%A6Smile&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FThcAOksIWA40mjIibiaibnl8ahibMSbWmicmOjmFU4haNXAqrTu5IibdcVVaUaymLTfdzVic4vnFhhq8CwLvbgO13t47A%2F132&sex=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+
+[ 2019-06-05T15:54:21+08:00 ] 61.158.149.34 /xcx/home/index/getnewsid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+SQL: SHOW COLUMNS FROM `article` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `article`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001215s ]
+
+[ 2019-06-05T15:54:32+08:00 ] 61.158.149.34 /xcx/home/index/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\wamp\www\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: txt C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-06-05T15:55:09+08:00 ] 61.158.149.34 /xcx/home/index/search?openid=oUQgn0VX055-_zsneKsf2rttYsMM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `dirary` [ RunTime:0.0160s ]
+SQL: select *from dirary where openid ='oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0007s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(图2-2是实现算法递归调用的栈使用情况示意图。其中TOP是指向栈顶的指针。由于递归算法结构清晰，可读性强，且容易用数学归纳法证明算法的正确性，因此它为设计算法、调试程序带来很大方便。然而，递归算法的运行效率较低，无论是耗费的计算时间还是占用的存储空间都比非递归算法要多。若在程序中消除算法的递归调用，则其运行时间可大为节省。因此，有时希望在递归算法中消除递归调用，使其转化为一个非递归算法，通常，消除递归采用一一个用户定义的栈来模拟系统的递归调用工作栈，从而又仅是机械地费拟还不能达到缩短计算时间和减小点对速归调用工作栈进行简化,尽量减少栈操作，锗空间的目的。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(根据分治法的分制原则，应把原问题分为多少个子问题才较适宜2每个子问题是否规模相同或怎样才为适当?这些问题很难子以肯定的回答但人们从大量实践中发现，在用分治法设计算法时，最好使子问题的规模大致相同，即将一个问题分成大小相等的k 个子问题的处理方法是行之有效的。许多问题可以取k = 2.这种使子问题规模大致相等的做法出自一种平衡(Cbalancing)子问题的思想，它几乎总是比子问题规模不等的做法要好。从分治法的一般设计模式可以看出，用它设计出的程序一- 般是递归算法。因此，分治法的计算效率通常可以用递归方程来进行分析.-个分治法将规模为n的问题分成k个规模为n/m的子问题去解。为方便起见，设分解阈值m0 = 1.且adhoc解规模为1的问题耗费1个单位时间。另外，再设将原问题分解为k个子问题及用merge将k个子问题的解合并为原问题的解需用f(n)个单位时间。如果用T(n)表示该分治法divide and conquer(P)解规模为): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(P): failed to open stream: No such file or directory C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(= n的向面所够的计算时间，则有): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0022s ]
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0004s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(分治法不仅可以用来设计算法，而且在其他方面也有广泛应用。例如，可以用分治思想来设计电路、构造数学证明等。现举一例加以说明。没有n一2个运动员要进行网球循环赛。现要设计一个满足以下要求的比赛日程表，(1)每个选手必须与其他n- 1个选手各赛- -次;(2)每个选手天只能赛-次;(3)循环赛共进行n一 1天。按此要求可将比赛日程表设计成有n行和n一1列的表。在表中第i行和第j列处填入第i个选手在第天所遇到的选手。按分治策略，可以将所有选手对分为两半,n个选手的比赛日程表就可以通过为n/2个选手设计的比赛日程表来决定.递归地用这种一分为二的策略对选手进行分割，直到只剩下两个选手时，比赛日程表的制定就变得很简单了。这时只要让这两个选手进行比赛就可以了。图2 -12所列出的正方形表是8个选手的比赛日程表.其中左上角与左下角的两小块分别为选手1至选手4和选手5至选手8前3天的比赛日程据此,将左上角小块中的所有数字按其相对位置抄到右下角,将左下角小块中的所有数字按其相对位置抄到右上角,这样就分别安排好了选手至选手4和选手5至选手8在后4天的比赛日程。依此思想很容易将这个比赛日租表推广到具有任意多个选手的情形。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(文件(File) 是操作系统中的一个重要概念。文件是以计算机硬盘为载体存储在计算机上的信息集合，文件可以是文本文档、图片、程序，等等。在系统运行时，计算机以进程为基本单位进行资源的调度和分配:而在用户进行的输入、输出中，则以文件为基本单位。大多数应用程序的输入都是通过文件来实现的，其输出也都保存在文件中，以便信息的长期存储及将来的访问。当用户将文件用于应用程序的输入、输出时，还希望可以访问文件、修改文件和保存文件等，实现对文件的维护管理，这就需要系统提供一个文件管理系统，操作系统中的文件系统File System )就是用于实现用户的这些管理要求。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(目户输入账号密码，点击登录时。前瑞公把数据传输到后端，首先河是用户不存在则返回相应的信息，前瑞提示用户不存在，如果用户有如果密码不对则返回相应的信息。前端提示用户名或密码错误。当系统给将 获取到用户的身份信息，如果是管理员身份，前端页面果是经理，前端页面操作权限为经理，如果为员工，前端页面操作用户的信息存入Session中， 用作登录验证。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0007s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(目户输入账号密码，点击登录时。前瑞公把数据传输到后端，首先河是用户不存在则返回相应的信息，前瑞提示用户不存在，如果用户有如果密码不对则返回相应的信息。前端提示用户名或密码错误。当系统给将 获取到用户的身份信息，如果是管理员身份，前端页面果是经理，前端页面操作权限为经理，如果为员工，前端页面操作用户的信息存入Session中， 用作登录验证。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2019-06-05T15:55:15+08:00 ] 61.158.149.34 /xcx/home/index/search?openid=oUQgn0VX055-_zsneKsf2rttYsMM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `dirary` [ RunTime:0.0040s ]
+SQL: select *from dirary where openid ='oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0012s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(图2-2是实现算法递归调用的栈使用情况示意图。其中TOP是指向栈顶的指针。由于递归算法结构清晰，可读性强，且容易用数学归纳法证明算法的正确性，因此它为设计算法、调试程序带来很大方便。然而，递归算法的运行效率较低，无论是耗费的计算时间还是占用的存储空间都比非递归算法要多。若在程序中消除算法的递归调用，则其运行时间可大为节省。因此，有时希望在递归算法中消除递归调用，使其转化为一个非递归算法，通常，消除递归采用一一个用户定义的栈来模拟系统的递归调用工作栈，从而又仅是机械地费拟还不能达到缩短计算时间和减小点对速归调用工作栈进行简化,尽量减少栈操作，锗空间的目的。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(根据分治法的分制原则，应把原问题分为多少个子问题才较适宜2每个子问题是否规模相同或怎样才为适当?这些问题很难子以肯定的回答但人们从大量实践中发现，在用分治法设计算法时，最好使子问题的规模大致相同，即将一个问题分成大小相等的k 个子问题的处理方法是行之有效的。许多问题可以取k = 2.这种使子问题规模大致相等的做法出自一种平衡(Cbalancing)子问题的思想，它几乎总是比子问题规模不等的做法要好。从分治法的一般设计模式可以看出，用它设计出的程序一- 般是递归算法。因此，分治法的计算效率通常可以用递归方程来进行分析.-个分治法将规模为n的问题分成k个规模为n/m的子问题去解。为方便起见，设分解阈值m0 = 1.且adhoc解规模为1的问题耗费1个单位时间。另外，再设将原问题分解为k个子问题及用merge将k个子问题的解合并为原问题的解需用f(n)个单位时间。如果用T(n)表示该分治法divide and conquer(P)解规模为): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(P): failed to open stream: No such file or directory C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(= n的向面所够的计算时间，则有): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0140s ]
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0004s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(分治法不仅可以用来设计算法，而且在其他方面也有广泛应用。例如，可以用分治思想来设计电路、构造数学证明等。现举一例加以说明。没有n一2个运动员要进行网球循环赛。现要设计一个满足以下要求的比赛日程表，(1)每个选手必须与其他n- 1个选手各赛- -次;(2)每个选手天只能赛-次;(3)循环赛共进行n一 1天。按此要求可将比赛日程表设计成有n行和n一1列的表。在表中第i行和第j列处填入第i个选手在第天所遇到的选手。按分治策略，可以将所有选手对分为两半,n个选手的比赛日程表就可以通过为n/2个选手设计的比赛日程表来决定.递归地用这种一分为二的策略对选手进行分割，直到只剩下两个选手时，比赛日程表的制定就变得很简单了。这时只要让这两个选手进行比赛就可以了。图2 -12所列出的正方形表是8个选手的比赛日程表.其中左上角与左下角的两小块分别为选手1至选手4和选手5至选手8前3天的比赛日程据此,将左上角小块中的所有数字按其相对位置抄到右下角,将左下角小块中的所有数字按其相对位置抄到右上角,这样就分别安排好了选手至选手4和选手5至选手8在后4天的比赛日程。依此思想很容易将这个比赛日租表推广到具有任意多个选手的情形。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(文件(File) 是操作系统中的一个重要概念。文件是以计算机硬盘为载体存储在计算机上的信息集合，文件可以是文本文档、图片、程序，等等。在系统运行时，计算机以进程为基本单位进行资源的调度和分配:而在用户进行的输入、输出中，则以文件为基本单位。大多数应用程序的输入都是通过文件来实现的，其输出也都保存在文件中，以便信息的长期存储及将来的访问。当用户将文件用于应用程序的输入、输出时，还希望可以访问文件、修改文件和保存文件等，实现对文件的维护管理，这就需要系统提供一个文件管理系统，操作系统中的文件系统File System )就是用于实现用户的这些管理要求。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(目户输入账号密码，点击登录时。前瑞公把数据传输到后端，首先河是用户不存在则返回相应的信息，前瑞提示用户不存在，如果用户有如果密码不对则返回相应的信息。前端提示用户名或密码错误。当系统给将 获取到用户的身份信息，如果是管理员身份，前端页面果是经理，前端页面操作权限为经理，如果为员工，前端页面操作用户的信息存入Session中， 用作登录验证。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [2] file_get_contents(): Filename cannot be empty C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+NOTIC: [2] file_get_contents(目户输入账号密码，点击登录时。前瑞公把数据传输到后端，首先河是用户不存在则返回相应的信息，前瑞提示用户不存在，如果用户有如果密码不对则返回相应的信息。前端提示用户名或密码错误。当系统给将 获取到用户的身份信息，如果是管理员身份，前端页面果是经理，前端页面操作权限为经理，如果为员工，前端页面操作用户的信息存入Session中， 用作登录验证。): failed to open stream: Invalid argument C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 225 行.
+SQL: select *from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\xcx\Application\Home\Controller\IndexController.class.php 第 254 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2019-06-05T15:56:23+08:00 ] 61.158.149.34 /xcx/home/index/getopenid?appid=wxe414a8d62204cc8b&secret=cee99d299baa43f5395faa74ba77cad8&js_code=023SlHa01wVUAW1PWoc01rbxa01SlHa2&grant_type=authorization_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2019-06-05T15:56:23+08:00 ] 61.158.149.34 /xcx/home/index/getuserinfo?openid=oUQgn0VX055-_zsneKsf2rttYsMM&nick=%E5%92%8C%E5%90%8C%E5%AD%A6Smile&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FThcAOksIWA40mjIibiaibnl8ahibMSbWmicmOjmFU4haNXAqrTu5IibdcVVaUaymLTfdzVic4vnFhhq8CwLvbgO13t47A%2F132&sex=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001261s ]
+
+[ 2019-06-05T15:56:26+08:00 ] 61.158.149.34 /xcx/home/index/getnewsid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `article` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `article`  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2019-06-05T15:56:54+08:00 ] 61.158.149.34 /xcx/home/index/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\wamp\www\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: txt C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant items - assumed 'items' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant itemstring - assumed 'itemstring' C:\wamp\www\xcx\Application\Home\Controller\OcrController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001184s ]
+

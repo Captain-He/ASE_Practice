@@ -1,0 +1,1484 @@
+[ 2019-06-04T17:11:59+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Member/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002604s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+
+[ 2019-06-04T17:11:59+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002099s ]
+
+[ 2019-06-04T17:12:00+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Member/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+
+[ 2019-06-04T17:12:00+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000542s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2019-06-04T17:12:01+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2019-06-04T17:12:24+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/verify.html?1559639539599
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2019-06-04T17:12:25+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/verify.html?1559639539711
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+
+[ 2019-06-04T17:12:34+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.5711s ]
+SQL: SELECT `uid`,`user` FROM `member` WHERE `user` = 'admin' AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0088s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\LoginController.class.php 第 42 行.
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0119s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0244s ]
+SQL: SELECT `user` FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1559639554','61.158.149.34','登录成功。') [ RunTime:0.0066s ]
+
+[ 2019-06-04T17:12:35+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0388s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0049s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0045s ]
+SQL: select VERSION() as mysql [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0022s ]
+SQL: DELETE FROM `log` WHERE ( t < 1554455554 ) [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `log` LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000298s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000587s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001056s ]
+
+[ 2019-06-04T17:12:42+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/index/index.html?callback=jQuery211028716254636048355_1559639551865&_=1559639551866
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0026s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: select VERSION() as mysql [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0021s ]
+SQL: DELETE FROM `log` WHERE ( t < 1554455562 ) [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `log` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000387s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001007s ]
+
+[ 2019-06-04T17:13:02+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0023s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 1   [ RunTime:0.0062s ]
+SQL: SELECT member.*,auth_group.id as gid,auth_group.title FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 0,10   [ RunTime:0.0183s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title` FROM `auth_group`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 267 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 268 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 269 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 270 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 272 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 275 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 276 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088345s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2019-06-04T17:13:03+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Member/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Member/add' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0017s ]
+SQL: SELECT `id`,`title` FROM `auth_group` WHERE ( status = 1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000436s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 267 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 270 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 271 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 273 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 283 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 291 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 291 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 291 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 291 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 318 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 332 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 335 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 338 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 351 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 368 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 381 行.
+NOTIC: [8] Undefined variable: member C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\ad12dffb73f7e1660539779c0ea3364c.php 第 395 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001114s ]
+
+[ 2019-06-04T17:13:04+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Upload/uploadpic/Width/100/Height/100/BackCall/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: img C:\wamp\www\xcx\Application\Qwadmin\Controller\UploadController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000346s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2019-06-04T17:13:05+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Group/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Group/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0025s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `auth_group`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000388s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039566s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2019-06-04T17:13:06+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Group/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Group/add' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0018s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`pid`,`title` FROM `auth_rule` WHERE ( status=1 ) ORDER BY o asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000282s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 267 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 268 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 274 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 280 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 292 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055916s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2019-06-04T17:13:07+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Uarticle/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Uarticle/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0024s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `dirary` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dirary` WHERE ( 1 = 1  ) LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `dirary` WHERE ( 1 = 1  ) LIMIT 0,20   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0026s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0004s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0003s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000342s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000637s ]
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2019-06-04T17:13:09+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Article/index' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `article` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0243s ]
+SQL: SELECT `id`,`pid`,`name` FROM `category` ORDER BY o asc  [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `article` WHERE ( 1 = 1  ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT article.*,category.name FROM `article` INNER JOIN category ON category.id = article.sid  WHERE ( 1 = 1  ) ORDER BY t desc LIMIT 0,20   [ RunTime:0.0075s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\127597e1caaef806f2c6bd76cd34f57b.php 第 275 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\127597e1caaef806f2c6bd76cd34f57b.php 第 276 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2019-06-04T17:13:11+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Article/add' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0024s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0023s ]
+SQL: SELECT `id`,`pid`,`name` FROM `category` ORDER BY o asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000332s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000672s ]
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 265 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 287 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 298 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 312 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 327 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 339 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 354 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001046s ]
+
+[ 2019-06-04T17:13:11+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Upload/uploadpic/Width/100/Height/100/BackCall/thumbnail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0019s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: img C:\wamp\www\xcx\Application\Qwadmin\Controller\UploadController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000447s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2019-06-04T17:21:22+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Category/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Category/index' [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0023s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`pid`,`name`,`o` FROM `category` ORDER BY o asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000701s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2019-06-04T17:21:23+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Category/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Category/add' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`pid`,`name` FROM `category` ORDER BY o asc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000335s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 263 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 269 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 272 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 275 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 304 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 316 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 327 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 339 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 347 行.
+NOTIC: [8] Undefined variable: currentcategory C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\21f01e0ef2994a2150fe8854f007379c.php 第 352 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2019-06-04T17:21:25+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0017s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: select VERSION() as mysql [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0020s ]
+SQL: DELETE FROM `log` WHERE ( t < 1554456085 ) [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `log` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000411s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2019-06-04T17:21:25+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Index/index.html?callback=jQuery2110301968564268619_1559640080083&_=1559640080084
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0028s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: select VERSION() as mysql [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0019s ]
+SQL: DELETE FROM `log` WHERE ( t < 1554456085 ) [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `log` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000284s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2019-06-04T17:21:26+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0026s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT member.*,auth_group.id as gid,auth_group.title FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 0,10   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`title` FROM `auth_group`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000329s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000612s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 267 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 268 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 269 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 270 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 272 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 275 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 276 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064190s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+
+[ 2019-06-04T17:21:31+08:00 ] 61.158.149.34 /xcx/index.php/Qwadmin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2019-06-04T19:05:00+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Member/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+
+[ 2019-06-04T19:05:01+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2019-06-04T19:05:03+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001255s ]
+
+[ 2019-06-04T19:05:33+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/login/verify.html?1559646328379
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2019-06-04T19:05:36+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/login/verify.html?1559646330741
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001493s ]
+
+[ 2019-06-04T19:05:37+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/login/verify.html?1559646331760
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000923s ]
+
+[ 2019-06-04T19:05:43+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0036s ]
+SQL: SELECT `uid`,`user` FROM `member` WHERE `user` = 'admin' AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\LoginController.class.php 第 42 行.
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0018s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Common\function.php 第 12 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0017s ]
+SQL: SELECT `user` FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `log` (`name`,`t`,`ip`,`log`) VALUES ('admin','1559646343','218.29.64.19','登录成功。') [ RunTime:0.0004s ]
+
+[ 2019-06-04T19:05:43+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0019s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: select VERSION() as mysql [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0025s ]
+SQL: DELETE FROM `log` WHERE ( t < 1554462343 ) [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `log` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000304s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000592s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001097s ]
+
+[ 2019-06-04T19:05:52+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/index/index.html?callback=jQuery2110822731986803003_1559646338871&_=1559646338872
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Index/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: select VERSION() as mysql [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0021s ]
+SQL: DELETE FROM `log` WHERE ( t < 1554462352 ) [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `log` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `log` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000305s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000539s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+
+[ 2019-06-04T19:26:03+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT member.*,auth_group.id as gid,auth_group.title FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 0,10   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0018s ]
+SQL: SELECT `id`,`title` FROM `auth_group`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000292s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 267 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 268 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 269 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 270 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 272 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 275 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 276 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2019-06-04T19:31:36+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Group/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Group/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0023s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `auth_group`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000573s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2019-06-04T19:31:40+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Group/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Group/add' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0019s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`pid`,`title` FROM `auth_rule` WHERE ( status=1 ) ORDER BY o asc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000394s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000695s ]
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 267 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 268 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 274 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 280 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 292 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 303 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+NOTIC: [8] Undefined variable: group C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 318 行.
+NOTIC: [8] Undefined index: children C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\133d0cac11a299a1b2a2fc29c4aecd8f.php 第 322 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2019-06-04T19:31:44+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Uarticle/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Uarticle/index' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `dirary` [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dirary` WHERE ( 1 = 1  ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `dirary` WHERE ( 1 = 1  ) LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0016s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0003s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000668s ]
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038235s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2019-06-04T19:31:47+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0026s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT member.*,auth_group.id as gid,auth_group.title FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 0,10   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0018s ]
+SQL: SELECT `id`,`title` FROM `auth_group`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 267 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 268 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 269 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 270 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 272 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 275 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 276 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001050s ]
+
+[ 2019-06-04T19:31:53+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Article/add' [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0019s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`pid`,`name` FROM `category` ORDER BY o asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000355s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 265 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 287 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 298 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 312 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 327 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 339 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 354 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2019-06-04T19:31:53+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Upload/uploadpic/Width/100/Height/100/BackCall/thumbnail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0018s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: img C:\wamp\www\xcx\Application\Qwadmin\Controller\UploadController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000445s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001135s ]
+
+[ 2019-06-04T19:45:56+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Article/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Article/add' [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0018s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0019s ]
+SQL: SELECT `id`,`pid`,`name` FROM `category` ORDER BY o asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000335s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 265 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 287 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 298 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 312 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 327 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 339 行.
+NOTIC: [8] Undefined variable: article C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\e441058898ecfe5419e984c03cf0856c.php 第 354 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001112s ]
+
+[ 2019-06-04T19:45:56+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Upload/uploadpic/Width/100/Height/100/BackCall/thumbnail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Upload/uploadpic' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0027s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: img C:\wamp\www\xcx\Application\Qwadmin\Controller\UploadController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000478s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001214s ]
+
+[ 2019-06-04T19:46:50+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Uarticle/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Uarticle/index' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `dirary` [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dirary` WHERE ( 1 = 1  ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dirary` WHERE ( 1 = 1  ) LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0016s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0003s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000327s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000581s ]
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2019-06-04T19:47:00+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Uarticle/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Uarticle/index' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `dirary` [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dirary` WHERE ( 1 = 1  ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dirary` WHERE ( 1 = 1  ) LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0020s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0003s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0003s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+SQL: select nick from userinfo where openid = 'oUQgn0VX055-_zsneKsf2rttYsMM' [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000565s ]
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+NOTIC: [8] Undefined index: aid C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\f6fa39b60fb58548baf93feb9a4a55a0.php 第 279 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000991s ]
+
+[ 2019-06-04T19:47:03+08:00 ] 218.29.64.19 /xcx/index.php/Qwadmin/Member/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\xcx\Application\Qwadmin\Controller\ComController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM auth_group g left join auth_group_access a on g.id=a.group_id where a.uid=1 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `member` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT s.id,s.title,s.name,s.tips,s.pid,p.pid as ppid,p.title as ptitle FROM auth_rule s left join auth_rule p on p.id=s.pid where s.name='Member/index' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `auth_rule` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`title`,`pid`,`name`,`icon` FROM `auth_rule` WHERE ( islink=1   ) ORDER BY o ASC  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT member.*,auth_group.id as gid,auth_group.title FROM `member` INNER JOIN auth_group_access ON member.uid = auth_group_access.uid INNER JOIN auth_group ON auth_group.id = auth_group_access.group_id  ORDER BY member.uid asc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `auth_group` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`title` FROM `auth_group`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Qwadmin/View/Public/set.html): failed to open stream: No such file or directory C:\wamp\www\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000236s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Use of undefined constant user - assumed 'user' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 267 行.
+NOTIC: [8] Use of undefined constant phone - assumed 'phone' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 268 行.
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 269 行.
+NOTIC: [8] Use of undefined constant email - assumed 'email' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 270 行.
+NOTIC: [8] Use of undefined constant keyword - assumed 'keyword' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 272 行.
+NOTIC: [8] Use of undefined constant asc - assumed 'asc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 275 行.
+NOTIC: [8] Use of undefined constant desc - assumed 'desc' C:\wamp\www\xcx\Application\Runtime\Cache\Qwadmin\d0b3b911ec2d1a22001155e44a009c6d.php 第 276 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
